@@ -1,5 +1,5 @@
 # APV-Streetlife-Roleplay
-<img width="358" height="950" alt="banner" src="[https://github.com/user-attachments/assets/b51be8de-5f0a-4d38-8fff-9a9a3069edd9](https://github.com/user-attachments/assets/3d3eeb0f-594f-40de-acaf-32a5fa76bebb)" />
+<img width="358" height="950" alt="banner" src="https://github.com/user-attachments/assets/3d3eeb0f-594f-40de-acaf-32a5fa76bebb" />
 
 ## Regels zijn er voor iedereen
 ## Straffen:
