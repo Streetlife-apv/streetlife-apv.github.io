@@ -1,3 +1,6 @@
+# APV-Streetlife-Roleplay
+<img width="1858" height="950" alt="banner" src="https://github.com/user-attachments/assets/b51be8de-5f0a-4d38-8fff-9a9a3069edd9" />
+
 ## Regels zijn er voor iedereen
 ## Straffen:
 
@@ -34,7 +37,8 @@ Hieronder wordt verstaan het doelbewust gebruik maken van een bug/exploit die in
 
 Het moedwillig dupliceren van ingame items.
 Het niet aangeven van gedupliceerde items na server restarts/crashes of bij directe constatering.
-Het gebruik maken van een emote om aan de andere kant van een muur/deur te komen of uit te breken van bijvoorbeeld de gevangenis en/of te gebruiken om te ontsnappen.
+Het gebruik maken van een emote 
+om aan de andere kant van een muur/deur te komen of uit te breken van bijvoorbeeld de gevangenis en/of te gebruiken om te ontsnappen.
 Handelingen uitvoeren terwijl je dood bent.
 Reloggen om zo weer meer health er bij te krijgen.
 De bug ‘one punch’ zal bestraft worden met een straf volgens de 5de categorie.
