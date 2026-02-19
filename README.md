@@ -1,5 +1,7 @@
- # APV-Streetlife-Roleplay
-<img width="38" height="39" alt="Schermafbeelding 2026-02-19 131325" src="https://github.com/user-attachments/assets/3c48a972-085b-43fa-be4b-9269a0b018d0" />
+# APV-Streetlife-Roleplay!
+
+[Naamloos-1](https://github.com/user-attachments/assets/24a1e9b1-1c19-41cd-8542-f79e4c6b5872) 
+
 
 ## Regels zijn er voor iedereen
 ## Straffen:
@@ -36,7 +38,8 @@ Het verhandelen van items, valuta, diensten en/of accounts voor echt geld is ver
 ### Artikel 3: Alt Characters (Straf Categorie 8)
 Onder een alt character wordt verstaan dat een persoon meerdere accounts aanmaakt om binnen de stad Streetlife te spelen.
 
-Het is verboden om een alt account aan te maken om vervolgens het banksaldo van dit account te overhandigen aan een speler, op welke manier dan ook.
+Het is verboden om een alt account![Naamloos-1](https://github.com/user-attachments/assets/dd03465b-1182-44ad-9bcc-e657713013e2)
+ aan te maken om vervolgens het banksaldo van dit account te overhandigen aan een speler, op welke manier dan ook.
 Het is niet toegestaan te spoofen om op die manier weer toegang te krijgen tot je account op Streetlife.
 ### Artikel 3A: Startersgeld (Straf Categorie 8)
 Het is niet toegestaan startersgeld aan anderen te geven zonder enige bedoeling zelf te gaan spelen.
