@@ -1,6 +1,6 @@
 # APV-Streetlife-Roleplay!
 
-[Naamloos-1](https://github.com/user-attachments/assets/24a1e9b1-1c19-41cd-8542-f79e4c6b5872) 
+(https://github.com/user-attachments/assets/24a1e9b1-1c19-41cd-8542-f79e4c6b5872) 
 
 
 ## Regels zijn er voor iedereen
