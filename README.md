@@ -1,7 +1,3 @@
-# APV-Streetlife-Roleplay!
-
-![Naamloos-1](https://github.com/user-attachments/assets/dd03465b-1182-44ad-9bcc-e657713013e2)
-
 ## Regels zijn er voor iedereen
 ## Straffen:
 
