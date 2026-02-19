@@ -85,12 +85,8 @@ hr {
   from {opacity:0; transform: translateY(20px);}
   to {opacity:1; transform: translateY(0);}
 }
-.banner {
-  width: 100%;
-  max-width: 900px;     /* pas aan naar smaak /
-  max-height: 280px;    / voorkomt te hoge banner */
-  object-fit: cover;
-  border-radius: 14px;
-  margin: 0 auto 40px;
+.logo {
   display: block;
+  margin: 20px auto;
+  width: 200px;
 }
