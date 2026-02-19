@@ -1,26 +1,37 @@
 # APV-Streetlife-Roleplay!
 
-(https://github.com/user-attachments/assets/24a1e9b1-1c19-41cd-8542-f79e4c6b5872) 
-
+![Naamloos-1](https://github.com/user-attachments/assets/dd03465b-1182-44ad-9bcc-e657713013e2)
 
 ## Regels zijn er voor iedereen
 ## Straffen:
-SCategorie 1: 30 taken
+
+Categorie 1: 30 taken
+
 Categorie 2: 100 taken
+
 Categorie 3: Ban van 8 uur+ 150 taken
+
 Categorie 4: Een verbanning van 1 dag + 200 taken.
+
 Categorie 5: Een verbanning van 2 dagen + 350 taken.
+
 Categorie 6: Een verbanning van 3 dagen + 400 taken.
+
 Categorie 7: Een verbanning van 1 week + 550 taken.
+
 Categorie 8: Een permanente verbanning.
+
 Categorie 9: Een permanente verbanning + volledige account wipe.
+
 Categorie 10: Permanente ban (GUM)
+
 ### Artikel 1: Cheats/externe software (Straf Categorie 8)
+
 Het gebruik maken van software van derde partijen om een voordeel in het spel te krijgen is niet toegestaan. Hieronder vallen o.a. cheats/hacks.
 
 
 ### Artikel 1A: Externe Software (Straf Categorie 7)
-Het gebruik maken van instellingen/programma's zoals een crosshair, aangepaste schermresolutie of reshade waardoor je combat gerichte voordelen krijgt is niet toegestaan. Denk aan bloodeffecta en tracers.
+Het gebruik maken van instellingen/programma's zoals een crosshair, aangepaste schermresolutie of reshade waardoor je combat gerichte voordelen krijgt is niet toegestaan. Denk aan bloodeffects en tracers.
 
 ### Artikel 2: Exploits/Bugs (Straf Categorie 7)
 Hieronder wordt verstaan het doelbewust gebruik maken van een bug/exploit die in jou of andermans voordeel werkt.
@@ -38,7 +49,7 @@ Het verhandelen van items, valuta, diensten en/of accounts voor echt geld is ver
 ### Artikel 3: Alt Characters (Straf Categorie 8)
 Onder een alt character wordt verstaan dat een persoon meerdere accounts aanmaakt om binnen de stad Streetlife te spelen.
 
-Het is verboden om een alt account![Naamloos-1](https://github.com/user-attachments/assets/dd03465b-1182-44ad-9bcc-e657713013e2)
+Het is verboden om een alt account
  aan te maken om vervolgens het banksaldo van dit account te overhandigen aan een speler, op welke manier dan ook.
 Het is niet toegestaan te spoofen om op die manier weer toegang te krijgen tot je account op Streetlife.
 ### Artikel 3A: Startersgeld (Straf Categorie 8)
