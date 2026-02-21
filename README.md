@@ -4,6 +4,8 @@
 ## Regels zijn er voor iedereen
 ## Straffen:
 
+Categorie 0: Desbetrefende staff beslist zelf
+
 Categorie 1: 30 taken
 
 Categorie 2: 100 taken
