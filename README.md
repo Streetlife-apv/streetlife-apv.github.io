@@ -24,7 +24,7 @@ Categorie 9: Een permanente verbanning + volledige account wipe.
 
 Categorie 10: Permanente ban (GUM)
 
-### Artikel 1: Cheats/externe software (Straf Categorie 8)
+### Artikel 1: Cheats/externe software (Straf Categorie 10)
 
 Het gebruik maken van software van derde partijen om een voordeel in het spel te krijgen is niet toegestaan. Hieronder vallen o.a. cheats/hacks.
 
@@ -46,7 +46,7 @@ Wanneer er sprake is van gedupliceerde items/geld, volgt er een straf van zowel 
 Artikel 2A: IRL Trade (Straf Categorie 10)
 Het verhandelen van items, valuta, diensten en/of accounts voor echt geld is verboden.
 
-### Artikel 3: Alt Characters (Straf Categorie 8)
+### Artikel 3: Alt Characters (Straf Categorie 9)
 Onder een alt character wordt verstaan dat een persoon meerdere accounts aanmaakt om binnen de stad Streetlife te spelen.
 
 Het is verboden om een alt account
@@ -55,7 +55,7 @@ Het is niet toegestaan te spoofen om op die manier weer toegang te krijgen tot j
 ### Artikel 3A: Startersgeld (Straf Categorie 8)
 Het is niet toegestaan startersgeld aan anderen te geven zonder enige bedoeling zelf te gaan spelen.
 Het is niet toegestaan om de speeltijd zonder enige doel af te wachten en dan als nog geld over te maken zonder doel te hebben langer te gaan spelen.
-### Artikel 4: Bedreigen/Intimideren (Straf Categorie 8)
+### Artikel 4: Bedreigen/Intimideren (Straf Categorie 10)
 Het is ten strengste verboden om een burger en/of stafflid te bedreigen of te intimideren met een DDOS aanval.
 Het ‘doxen’ of 'ddossen' van burgers en/of staff leden is verboden.
 ### Artikel 5: Fail RP (Straf Categorie 4)
@@ -127,13 +127,13 @@ Wanneer een speler in een roleplay scenario is doodgegaan, dient een speler alle
 ### Artikel 11: Microfoon (Straf Categorie 2)
 Iedere speler dient een werkende microfoon te gebruiken in de stad. Wanneer de speler in kwestie kan bewijzen dat de microfoon weer werkende is, krijgt de persoon in kwestie een unban. Het is verplicht push to talk te gebruiken in de stad, anderen mogen geen last hebben van jou achtergrond geluiden.
 
-#### Artikel 11A: Microfoon ()
+#### Artikel 11A: Microfoon (Straf Categorie 1)
 Het gebruiken van voice changer zonder het doen van onderwereld activiteiten is niet toegestaan. Het misbruiken/onnodig gebruiken van een soundpad is niet toegestaan. Voor het gebruik maken van een soundpad is toestemming vereist van een admin of hoger. In de onderwereld kun je voor de volgende scenario's een voice changer gebruiken: * Bij een drugsdeal; * Bij een wapendeal; * Bij het rippen; * Bij overvallen. Speciale eenheden van de landelijke politie / marechaussee mogen gebruik maken van een voice changer.
 
-### Artikel 12: Earrape ()
+### Artikel 12: Earrape (Straf Categorie 3)
 Hieronder wordt verstaan een persoon die met zijn microfoon/soundpad dusdanig onnodig veel lawaai maakt, dat het niet normaal te verdragen is voor andere burgers. Een voorbeeld wat onder earrape valt is bijvoorbeeld het schreeuwen en/of het maken van harde geluiden in de microfoon, waarbij andere last ervaren.
 
-### Artikel 13: VDM (Straf Categorie 3)
+### Artikel 13: VDM (Straf Categorie 4)
 Hieronder wordt verstaan een persoon die opzettelijk inrijdt op een burger met de intentie om de burger te vermoorden of als doel heeft het voertuig als wapen te gebruiken. Een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken om een hogere straf op te leggen.
 
 ### Artikel 14: RDM (Straf Categorie 3)
@@ -154,7 +154,7 @@ Wanneer je in Streetlife bent is het verboden om te screen sharen.
 Het praten in call tijdens een scenario zal als metagamen worden gezien. Wanneer je met meerdere mensen op Streetlife speelt is het verplicht om jezelf te muten tijdens scenario's.
 Het versturen van ingame informatie in de Streetlife onderwereld discord wordt gezien als meta.
 Als onderwereld gang dien je ten alle tijden gemute in oortje te zitten in de Streetlife onderwereld discord wordt gezien als meta.
-### Artikel 16: Voertuig gebruik ()
+### Artikel 16: Voertuig gebruik (Straf Categorie 3)
 Het pitten boven 130 km/h is niet toegestaan.
 
 Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid.
@@ -172,7 +172,7 @@ Het is op geen enkele manier toegestaan om een motor te pitten.
 Het is toegestaan om je auto te verkopen via twitter.
 Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen is niet toegestaan en zal worden bestraft met een ingame boete. De ingame boete hangt af van het geldbedrag wat je hebt. Zie Delfines voor meer informatie.
 Het is niet toegestaan om een lesauto te gebruiken voor andere doeleinden dan de lesronde te rijden. Je mag dus niet van de bepaalde route afwijken.
-### Artikel 17: GTA style driving ()
+### Artikel 17: GTA style driving (Straf Categorie 2)
 Hieronder wordt verstaan het onrealistisch rijden met je voertuig. Enkel voorbeelden van GTA Style driving:
 
 Stunt jumps nemen.
